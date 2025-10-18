@@ -62,9 +62,8 @@ There really isn't much at all to say, but i reprinted the spinner at 40% infill
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e335733c192386dbaf04cbc718804558d52bf26e/image.png)
 
 
-and here is my janky timelapse of the print, enjoy ig! (note, i didnt use the builtin timelapse because it takes too long and uses extra filament):
+and here is my janky timelapse of the print, enjoy ig! (note, i didnt use the builtin timelapse because it takes too long and uses extra filament)
 
 https://github.com/user-attachments/assets/8d0280a0-ec36-4a6e-b2bf-0f09121899cb
-
-
+  
 
