@@ -56,3 +56,16 @@ and here is the fixed one, i will print it soon :tm:. :sob: wasted 5+ grams of p
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d1ccc0b328b5d53b52191955a8d30ba1569a2792/image.png)
   
 
+## 10/18/2025 5 PM - Printed the new spinner & reassembled and tested  
+
+There really isn't much at all to say, but i reprinted the spinner at 40% infill, used about 6 grams of filament. Here is a screenshot of my slicer:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e335733c192386dbaf04cbc718804558d52bf26e/image.png)
+
+
+and here is my janky timelapse of the print, enjoy ig! (note, i didnt use the builtin timelapse because it takes too long and uses extra filament)
+<video controls width="600">
+  <source src="timelapse.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+  
+
