@@ -45,3 +45,14 @@ finally, the plate with the spinner, and some poker chips (the white one was 3d-
 
   
 
+## 10/18/2025 4 PM - The spinner's pole is not centred  
+
+NO WONDER THE SPINNER WAS SO UNSTABLE WHEN I WAS TESTING IT!!! the pole was not even centred. i have no idea what i did, but it looked like this: (pls ignore the support)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ac5c7b9df4b70144c2974d971166fbcad7ab757/image.png)
+
+
+and here is the fixed one, i will print it soon :tm:. :sob: wasted 5+ grams of precious filament...
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d1ccc0b328b5d53b52191955a8d30ba1569a2792/image.png)
+  
+
