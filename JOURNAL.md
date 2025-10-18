@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Poker Chip Sorter**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/622).
 
 
-## 10/18/2025 - Started the project and made some 3D models  
+## 10/18/2025 12 PM - Started the project and made some 3D models  
 
 Well what could I possibly say. Started on stage 1 of my project, which is a spinner that prepares the chips for later stages. here are some screenshots and photos of my progress!
 
@@ -22,5 +22,26 @@ Next up, i will print the spinner to test it out on my cardboard base
 ![image_720.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c84d60856e0009af95c16beff1db4a85909a703/image_720.png)
 ![screenshot_2025-10-17_at_12.19.16___pm_480.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a43c10cbb7ed82176b7cbbacc122ab2988e9eb88/screenshot_2025-10-17_at_12.19.16___pm_480.png)
 ![image_720.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3204155faa6e5b6cdb19643b03673e504760f89a/image_720.png)
+  
+
+## 10/18/2025 3 PM - Printed the spinner and assembled the plate  
+
+As the title suggests, I printed the spinner and assembled the base plate to test it out.
+
+Here is my slicer's info on the print:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--061d34830c7e578fcfd1e6475579045b2662cd92/image.png)
+
+and here is the printed spinner (support & tower removed) on my Bambu Lab A1:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--8e6f92b38aabf2465caf97de6be9a7eab5d78c6a/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--13c7efa32c963e596e43f199712823f342b9475b/image.png)
+
+
+and here is the cardboard plate, now complete (only 1 hole for now):
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ec31727df4e3ea4ae6350bc84ada4d09369c7b98/image.png)
+
+finally, the plate with the spinner, and some poker chips (the white one was 3d-printed):
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--13cf290dcf29fea81be85163e1d13cbf3f225ff6/image.png)
+
+
   
 
