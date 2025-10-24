@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Poker Chip Sorter**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/622).
-
-
 ## 10/18/2025 12 PM - Started the project and made some 3D models  
 
 Well what could I possibly say. Started on stage 1 of my project, which is a spinner that prepares the chips for later stages. here are some screenshots and photos of my progress!
@@ -66,4 +62,13 @@ and here is my janky timelapse of the print, enjoy ig! (note, i didnt use the bu
 
 https://github.com/user-attachments/assets/8d0280a0-ec36-4a6e-b2bf-0f09121899cb
   
+
+## 10/25/2025 - Modified the spinner to be double instead of single  
+
+After printing the single spinner (idk what to call it so...), i thought it would be hard to spin 100 poker chips with only a single "blade", so now i have double-blade. Maybe i should make the spinner taller?? 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--13029441ba738089c4c7d29f0685849d06869336/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--f7573b95ef2fc3426825cedd22489690b560a546/image.png)
+
+it was really hard to make the spinner symmetrical, so i used quite a lot of time making such a simple thing  
 
