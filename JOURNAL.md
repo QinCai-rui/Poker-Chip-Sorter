@@ -72,3 +72,9 @@ After printing the single spinner (idk what to call it so...), i thought it woul
 
 it was really hard to make the spinner symmetrical, so i used quite a lot of time making such a simple thing  
 
+## 10/28/2025 - Printed the spinner  
+
+I just exported the model and sliced it using Bambu Studio (used 6.66g of filament). it just finished and i measured it but THE SIDES ARE NOT EQUAL!!! 2 sides are 80mm (correct), but the rest are ~83mm for some reason... time to fix it
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--20c5c1b8a18c890006283392408cad302f317d91/image.png)
+  
+
