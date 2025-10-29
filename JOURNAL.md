@@ -85,3 +85,15 @@ Fixed the spinner to have uniform length (80mm) for all the sides. also made the
 ![Screenshot 2025-10-28 at 5.08.27 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d0d3e94a48812295196a7882bb13975e0e541cee/Screenshot%202025-10-28%20at%205.08.27%E2%80%AFPM.png)
   
 
+## 10/29/2025 - Improved the spinner  
+
+When I was halfway through the print yesterday, I realised that these were not rounded: ![Screenshot 2025-10-29 at 4.03.57 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQzMywicHVyIjoiYmxvYl9pZCJ9fQ==--3345c42b869c4d36d2ce6df1c69e883928bfc4d2/Screenshot%202025-10-29%20at%204.03.57%E2%80%AFPM.png)
+So i kinda wasted 3 grams of filament but anyways...
+
+This is how the spinner looks like (7 grams according to Bambu Studio). the pink stuff are my anti-friction(tm) bumpers, and i hope they actually work
+![Screenshot 2025-10-29 at 4.05.00 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e8b8504656f2fe57552974ed9145c51778e0f0c1/Screenshot%202025-10-29%20at%204.05.00%E2%80%AFPM.png)
+
+I am currently printing the spinner, 6 minutes left!
+
+  
+
