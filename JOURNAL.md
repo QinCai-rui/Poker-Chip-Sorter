@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Poker Chip Sorter**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/622).
-
-
 ## 10/18/2025 12 PM - Started the project and made some 3D models  
 
 Well what could I possibly say. Started on stage 1 of my project, which is a spinner that prepares the chips for later stages. here are some screenshots and photos of my progress!
@@ -65,5 +61,39 @@ There really isn't much at all to say, but i reprinted the spinner at 40% infill
 and here is my janky timelapse of the print, enjoy ig! (note, i didnt use the builtin timelapse because it takes too long and uses extra filament)
 
 https://github.com/user-attachments/assets/8d0280a0-ec36-4a6e-b2bf-0f09121899cb
+  
+
+## 10/25/2025 - Modified the spinner to be double instead of single  
+
+After printing the single spinner (idk what to call it so...), i thought it would be hard to spin 100 poker chips with only a single "blade", so now i have double-blade. Maybe i should make the spinner taller?? 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--13029441ba738089c4c7d29f0685849d06869336/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--f7573b95ef2fc3426825cedd22489690b560a546/image.png)
+
+it was really hard to make the spinner symmetrical, so i used quite a lot of time making such a simple thing  
+
+## 10/28/2025 5:01 PM - Printed the spinner  
+
+I just exported the model and sliced it using Bambu Studio (used 6.66g of filament). it just finished and i measured it but THE SIDES ARE NOT EQUAL!!! 2 sides are 80mm (correct), but the rest are ~84mm for some reason... time to fix it
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--20c5c1b8a18c890006283392408cad302f317d91/image.png)
+  
+
+## 10/28/2025 5:10 PM - Quick fix   
+
+Fixed the spinner to have uniform length (80mm) for all the sides. also made the spinner a bit stronger (more infil) so it doesnt bend so easily (yeah i almost broke it off)
+
+![Screenshot 2025-10-28 at 5.08.27 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d0d3e94a48812295196a7882bb13975e0e541cee/Screenshot%202025-10-28%20at%205.08.27%E2%80%AFPM.png)
+  
+
+## 10/29/2025 - Improved the spinner  
+
+When I was halfway through the print yesterday, I realised that these were not rounded: ![Screenshot 2025-10-29 at 4.03.57 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQzMywicHVyIjoiYmxvYl9pZCJ9fQ==--3345c42b869c4d36d2ce6df1c69e883928bfc4d2/Screenshot%202025-10-29%20at%204.03.57%E2%80%AFPM.png)
+So i kinda wasted 3 grams of filament but anyways...
+
+This is how the spinner looks like (7 grams according to Bambu Studio). the pink stuff are my anti-friction(tm) bumpers, and i hope they actually work
+![Screenshot 2025-10-29 at 4.05.00 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e8b8504656f2fe57552974ed9145c51778e0f0c1/Screenshot%202025-10-29%20at%204.05.00%E2%80%AFPM.png)
+
+I am currently printing the spinner, 6 minutes left!
+
   
 
